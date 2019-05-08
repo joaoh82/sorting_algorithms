@@ -30,5 +30,4 @@ func binarySearch(list []int, search int) bool {
 		return false
 	}
 	return true
-
 }
